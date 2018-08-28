@@ -79,6 +79,6 @@ class Board
     else
       player1_count > player2_count ? @name1 : @name2
     end
-  
+
   end
 end

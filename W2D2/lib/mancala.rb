@@ -66,5 +66,5 @@ end
 if __FILE__ == $PROGRAM_NAME
   player1 = Player.new(player1, 1)
   player2 = Player.new(player2, 2)
-  Mancala.new(player1, player2).play
+  Mancala.new("joe", "bob").play
 end
